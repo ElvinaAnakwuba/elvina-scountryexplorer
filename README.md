@@ -31,7 +31,7 @@ To run this project on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/elvinaanakwuba/country-explorer.git
+   git clone https://github.com/ElvinaAnakwuba/elvina-scountryexplorer.git
    ```
 ## 2   Navigate to the folder:
 
