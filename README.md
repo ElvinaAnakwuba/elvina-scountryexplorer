@@ -24,7 +24,9 @@ A simple and interactive web app that allows users to explore information about 
 - [REST Countries API](https://restcountries.com/)
 
 ---
+## 🚀 Live Demo
 
+🔗 **[Live Demo](https://your-username.github.io/country-explorer/)**  
 ## 🚀 Getting Started
 
 To run this project on your local machine:
