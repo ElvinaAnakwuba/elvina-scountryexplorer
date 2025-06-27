@@ -26,7 +26,7 @@ A simple and interactive web app that allows users to explore information about 
 ---
 ## 🚀 Live Demo
 
-🔗 **[Live Demo](https://your-username.github.io/country-explorer/)**  
+🔗 **[Live Demo](https://elvinaanakwuba.github.io/elvina-scountryexplorer/)**  
 ## 🚀 Getting Started
 
 To run this project on your local machine:
