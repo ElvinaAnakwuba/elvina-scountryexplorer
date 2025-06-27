@@ -38,7 +38,7 @@ To run this project on your local machine:
 ```bash
 Copy
 Edit
-cd country-explorer
+cd elvina-scountry-explorer
 ```
 ## 3. Open the project in your browser:
 
